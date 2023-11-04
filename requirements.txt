@@ -7,9 +7,3 @@ itsdangerous==2.0.1
 psycopg2==2.9.2
 SQLAlchemy==1.4.27
 Werkzeug==2.0.2
-
-In the terminal type: pip3 install -r requirements.txt
-
-To create the file with all dependencies listed:
-
-To create the file in the terminal: pip freeze --local > requirements.txt
