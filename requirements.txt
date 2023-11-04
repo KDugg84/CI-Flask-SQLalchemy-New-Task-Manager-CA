@@ -1,3 +1,6 @@
+Add list of Python dependencies: 
+
+blinker==1.7.0
 click==8.0.3
 Flask==2.0.2
 Flask-SQLAlchemy==2.5.1
@@ -8,3 +11,7 @@ SQLAlchemy==1.4.27
 Werkzeug==2.0.2
 
 In the terminal type: pip3 install -r requirements.txt
+
+To create the file with all dependencies listed:
+
+To create the file in the terminal: pip freeze --local > requirements.txt
